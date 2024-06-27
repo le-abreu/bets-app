@@ -11,7 +11,7 @@ servers:
     description: Development Environment
   -
     url: 'https://bets.api.com'
-    description: Production Environment
+    description2: Production Environment
 
 tags:
   - name: bets
